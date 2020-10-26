@@ -1,0 +1,11 @@
+Model Information:
+* title:	AmazingMongo2
+* source:	https://sketchfab.com/3d-models/amazingmongo2-407a38f0b08943239ed79194bc01c2f7
+* author:	kllewis5 (https://sketchfab.com/kllewis5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AmazingMongo2" (https://sketchfab.com/3d-models/amazingmongo2-407a38f0b08943239ed79194bc01c2f7) by kllewis5 (https://sketchfab.com/kllewis5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

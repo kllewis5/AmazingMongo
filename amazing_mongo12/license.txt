@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amazing Mongo12
+* source:	https://sketchfab.com/3d-models/amazing-mongo12-63c36cc42af94bf992db6b4541156835
+* author:	kllewis5 (https://sketchfab.com/kllewis5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amazing Mongo12" (https://sketchfab.com/3d-models/amazing-mongo12-63c36cc42af94bf992db6b4541156835) by kllewis5 (https://sketchfab.com/kllewis5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

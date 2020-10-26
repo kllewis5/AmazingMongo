@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amazing Mongo15
+* source:	https://sketchfab.com/3d-models/amazing-mongo15-e95846329ea04757b889426b8642a604
+* author:	kllewis5 (https://sketchfab.com/kllewis5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amazing Mongo15" (https://sketchfab.com/3d-models/amazing-mongo15-e95846329ea04757b889426b8642a604) by kllewis5 (https://sketchfab.com/kllewis5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

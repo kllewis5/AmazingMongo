@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amazing Mongo7
+* source:	https://sketchfab.com/3d-models/amazing-mongo7-1da3e3c109194ff890febeaa518225b3
+* author:	kllewis5 (https://sketchfab.com/kllewis5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amazing Mongo7" (https://sketchfab.com/3d-models/amazing-mongo7-1da3e3c109194ff890febeaa518225b3) by kllewis5 (https://sketchfab.com/kllewis5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
