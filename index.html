@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - The Amazing Mongo</title>
+  
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- https://ar-js-org.github.io/AR.js-Docs/-->
+<!--Note to self: In order for this code  to work, the following things are required for the gltf-model:
+The entire folder with scene.bin and scene.gltf must be uploaded to GitHub
+The URL must include https
+The URL must start with https://arjs-cors-proxy.herokuapp.com/
+Check that gltf is working at https://gltf-viewer.donmccurdy.com/
+-->
+
+<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  <!-- we import arjs version without NFT but with marker + location based support -->
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+  <body style="margin : 0px; overflow: hidden;">
+    <a-scene embedded arjs>
+      <!--Pattern Marker Example Use this Marker Generator https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html-->
+
+      <!--Zeroeth Marker logo and 3D model-->
+<a-marker type='pattern' url='https://kllewis5.github.io/AmazingMongo/pattern-1.patt'>
+        <a-entity
+          rotation="-90 0 0"
+          position="0 0 0"
+          scale="0.5 0.5 0.5"
+          gltf-model="https://arjs-cors-proxy.herokuapp.com/https://kllewis5.github.io/AmazingMongo/amazingmongo1/scene.gltf"
+        ></a-entity>
+      </a-marker>
+      
+      <a-marker type='pattern' url='https://kllewis5.github.io/AmazingMongo/pattern-2.patt'>
+        <a-entity
+          rotation="-90 0 0"
+          position="0 0 0"
+          scale="0.5 0.5 0.5"
+          gltf-model="https://arjs-cors-proxy.herokuapp.com/https://kllewis5.github.io/AmazingMongo/amazingmongo2/scene.gltf"
+        ></a-entity>
+      </a-marker>
+      
+           <a-marker type='pattern' url='https://kllewis5.github.io/AmazingMongo/pattern-3.patt'>
+        <a-entity
+          rotation="-90 0 0"
+          position="0 0 0"
+          scale="0.5 0.5 0.5"
+          gltf-model="https://arjs-cors-proxy.herokuapp.com/https://kllewis5.github.io/AmazingMongo/amazingmongo3/scene.gltf"
+        ></a-entity>
+      </a-marker>
+
+<a-marker type='pattern' url='https://kllewis5.github.io/AmazingMongo/pattern-4.patt'>
+        <a-entity
+          rotation="-90 0 0"
+          position="0 0 0"
+          scale="0.5 0.5 0.5"
+          gltf-model="https://arjs-cors-proxy.herokuapp.com/https://kllewis5.github.io/AmazingMongo/amazingmongo4/scene.gltf"
+        ></a-entity>
+      </a-marker>      
+           
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+<!-- partial -->
+  
+</body>
+</html>
